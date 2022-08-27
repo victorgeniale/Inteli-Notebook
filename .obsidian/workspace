@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "8534cb47aba8ed8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f091e71bc6325aa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Programming/System Architectures.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec463c633683c6cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "d943e983d6a168de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99d7cbd52fc6c8ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c3763433325b29b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f58621ad2b788090",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3e88530ccdc08bd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dd9b104e4060bba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38e0eb806e91ab13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming/System Architectures.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7860ef2ca12c8e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programming/System Architectures.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e04942647e56984c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b848ad7b98093315",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming/System Architectures.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4f091e71bc6325aa",
+  "lastOpenFiles": [
+    "Orientation/Agile.md",
+    "Programming/System Architectures.md",
+    "Images/IMG - MVC.png",
+    "Images/IMG - Estimation Process.png",
+    "Leadership/Projects.md",
+    "Programming/Boolean Logic.md",
+    "Programming/Python Cheat Sheet.md",
+    "Programming/Godot Cheat Sheet.md",
+    "Programming/Data Structures.md",
+    "IMG - MVC.png 300.md"
+  ]
+}
