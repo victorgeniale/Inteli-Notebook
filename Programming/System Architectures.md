@@ -10,7 +10,12 @@ Gêneros: Comercial, comunicacional, autorial, financeiro, entretenimento...
 Estilos.: Centrado em dados, fluxo de dados, chamada e retorno, orientada a objeto...
 
 # Arquiteturas mais famosas
-![Imgur | 500](https://imgur.com/2jtU81p.png)
+<p align="center">
+  <img width=80% src="https://imgur.com/2jtU81p.png">
+</p>
+
 - MVC: Trabalha com os dados (**M**), exibe os dados para o cliente (**V**) e faz o controle de informações (**C**) (intermédio entre os dados e o usuário);
-![Imgur | 500](https://imgur.com/wgEjlN7.png)
+<p align="center">
+  <img width=80% src="https://imgur.com/wgEjlN7.png">
+</p>
 - Layered: Responsabilidades de cada camada;

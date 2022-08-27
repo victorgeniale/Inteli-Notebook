@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Programming/System Architectures.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -130,15 +130,15 @@
   },
   "active": "4f091e71bc6325aa",
   "lastOpenFiles": [
+    "Programming/Godot Cheat Sheet.md",
+    "Programming/Data Structures.md",
+    "Programming/Coding Dictionary.md",
     "Orientation/Agile.md",
+    "README.md",
+    "Leadership/Projects.md",
     "Programming/System Architectures.md",
     "Images/IMG - MVC.png",
     "Images/IMG - Estimation Process.png",
-    "Leadership/Projects.md",
-    "Programming/Boolean Logic.md",
-    "Programming/Python Cheat Sheet.md",
-    "Programming/Godot Cheat Sheet.md",
-    "Programming/Data Structures.md",
-    "IMG - MVC.png 300.md"
+    "Programming/Boolean Logic.md"
   ]
 }
