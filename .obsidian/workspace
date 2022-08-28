@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Vectors.md",
+=======
+            "file": "Programming/System Architectures.md",
+>>>>>>> 3f98f2d2e135c997bf52826c463e3b10bf09b378
             "mode": "preview",
             "source": false
           }
@@ -130,6 +134,7 @@
   },
   "active": "4f091e71bc6325aa",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "User Experience/Level Design (NEEDS ACTION).md",
     "User Experience/Design thinking.md",
     "Programming/System Architectures.md",
@@ -140,5 +145,17 @@
     "Programming/Boolean Logic.md",
     "Orientation/Agile.md",
     "Leadership/Projects.md"
+=======
+    "Programming/Godot Cheat Sheet.md",
+    "Programming/Data Structures.md",
+    "Programming/Coding Dictionary.md",
+    "Orientation/Agile.md",
+    "README.md",
+    "Leadership/Projects.md",
+    "Programming/System Architectures.md",
+    "Images/IMG - MVC.png",
+    "Images/IMG - Estimation Process.png",
+    "Programming/Boolean Logic.md"
+>>>>>>> 3f98f2d2e135c997bf52826c463e3b10bf09b378
   ]
 }
