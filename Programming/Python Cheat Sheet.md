@@ -2,7 +2,7 @@
 - **Não** podem começar com números ou conter espaços e sinais de operação;
 - **Não** podem contem letras maiúsculas e minúsculas como única diferença
 
-# Cool Hax
+# Cool hax
 - Formatação de uma string pode ser feita assim:
 ```Python
 varA = "Scott"
