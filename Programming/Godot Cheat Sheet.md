@@ -3,6 +3,6 @@
 `varA: bool` # Variável Booleana
 `func movement(arg: Vector2) -> void:` # Argumento vetor c/ saída void
 
-# Cool Hax
+# Cool hax
 - Funções podem ser estáticas (Não acessam variáveis de instãncia nem ao self)
 `static func Write():`
