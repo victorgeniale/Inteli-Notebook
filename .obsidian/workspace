@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Business/Gamer Profile.md",
+            "file": "Programming/Coding Dictionary.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business/Gamer Profile.md",
+                "file": "Programming/Coding Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business/Gamer Profile.md",
+                "file": "Programming/Coding Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business/Gamer Profile.md"
+                "file": "Programming/Coding Dictionary.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2b27e3482b10d427",
+  "active": "206210952889fb75",
   "lastOpenFiles": [
-    "User Experience/Users.md",
-    "Business/Gamer Profile.md",
-    "User Experience/Design thinking.md",
-    "User Experience/Level Design.md",
-    "Programming/System Architectures.md",
+    "Programming/Code Improvement - DEBUG.md",
     "Programming/Python Cheat Sheet.md",
-    "Programming/Godot Cheat Sheet.md",
+    "Programming/System Architectures.md",
     "Programming/Data Structures.md",
     "Programming/Coding Dictionary.md",
-    "Programming/Boolean Logic.md"
+    "Programming/Boolean Logic.md",
+    "User Experience/Level Design.md",
+    "User Experience/Users.md",
+    "Business/Gamer Profile.md",
+    "User Experience/Design thinking.md"
   ]
 }

@@ -15,3 +15,7 @@
 > **Arquitetura de sistema:** Modelo simples que abrange a estruturação do sistema e como os seus componentes interagem entre si;
 
 > **Design de software:** Implementa a arquitetura por meio da programação de algorítmos, estrutura de dados…;
+
+> **Refatoração:** Processo de melhorar a legibilidade e eficiência do código sem perder a usabilidade;
+
+> **Modularização:** Processo de dividir uma aplicação em partes (módulos) que interagem entre si;
