@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "User Experience/Level Design.md",
+            "file": "Business/Gamer Profile.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "obs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User Experience/Level Design.md",
+                "file": "Business/Gamer Profile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "User Experience/Level Design.md",
+                "file": "Business/Gamer Profile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "User Experience/Level Design.md"
+                "file": "Business/Gamer Profile.md"
               }
             }
           }
@@ -128,9 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "206210952889fb75",
+  "active": "2b27e3482b10d427",
   "lastOpenFiles": [
-    "User Experience/Level Design (NEEDS ACTION).md",
-    "User Experience/Level Design.md"
+    "User Experience/Users.md",
+    "Business/Gamer Profile.md",
+    "User Experience/Design thinking.md",
+    "User Experience/Level Design.md",
+    "Programming/System Architectures.md",
+    "Programming/Python Cheat Sheet.md",
+    "Programming/Godot Cheat Sheet.md",
+    "Programming/Data Structures.md",
+    "Programming/Coding Dictionary.md",
+    "Programming/Boolean Logic.md"
   ]
 }

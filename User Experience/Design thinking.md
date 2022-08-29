@@ -21,7 +21,7 @@
 5. Resolver problemas mais específicos no caminho;
 6. Entregar o produto final no fim do prazo estabelescido;
 
->Obs.: O double diamond não tem apenas 2 diamantes, o segundo diamante é repetido até a finalização do projeto;
+>OBS.: O double diamond não tem apenas 2 diamantes, o segundo diamante é repetido até a finalização do projeto;
 
 # Tipos de requisitos
 - Funcionais: Implicam diretamente na resolução do problema;
