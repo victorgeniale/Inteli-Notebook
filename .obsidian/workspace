@@ -9,8 +9,17 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "User Experience/Level Design.md",
             "mode": "source",
+=======
+<<<<<<< HEAD
+            "file": "Vectors.md",
+=======
+            "file": "Programming/System Architectures.md",
+>>>>>>> 3f98f2d2e135c997bf52826c463e3b10bf09b378
+            "mode": "preview",
+>>>>>>> 6cbd81246aeae4bf08ae512460fcaaa207ed8d79
             "source": false
           }
         }
@@ -77,7 +86,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "User Experience/Level Design.md",
+=======
+                "file": "Vectors.md",
+>>>>>>> 6cbd81246aeae4bf08ae512460fcaaa207ed8d79
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "User Experience/Level Design.md",
+=======
+                "file": "Vectors.md",
+>>>>>>> 6cbd81246aeae4bf08ae512460fcaaa207ed8d79
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +134,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "User Experience/Level Design.md"
+=======
+                "file": "Vectors.md"
+>>>>>>> 6cbd81246aeae4bf08ae512460fcaaa207ed8d79
               }
             }
           }
@@ -130,15 +151,40 @@
   },
   "active": "4f091e71bc6325aa",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "README.md",
     "User Experience/Design thinking.md",
     "User Experience/Level Design.md",
+=======
+<<<<<<< HEAD
+    "User Experience/Level Design (NEEDS ACTION).md",
+    "User Experience/Design thinking.md",
+>>>>>>> 6cbd81246aeae4bf08ae512460fcaaa207ed8d79
     "Programming/System Architectures.md",
     "Programming/Python Cheat Sheet.md",
     "Programming/Data Structures.md",
+<<<<<<< HEAD
     "Programming/Boolean Logic.md",
     "Programming/Coding Dictionary.md",
     "Leadership/Projects.md",
     "Programming/Godot Cheat Sheet.md"
+=======
+    "Programming/Coding Dictionary.md",
+    "Programming/Boolean Logic.md",
+    "Orientation/Agile.md",
+    "Leadership/Projects.md"
+=======
+    "Programming/Godot Cheat Sheet.md",
+    "Programming/Data Structures.md",
+    "Programming/Coding Dictionary.md",
+    "Orientation/Agile.md",
+    "README.md",
+    "Leadership/Projects.md",
+    "Programming/System Architectures.md",
+    "Images/IMG - MVC.png",
+    "Images/IMG - Estimation Process.png",
+    "Programming/Boolean Logic.md"
+>>>>>>> 3f98f2d2e135c997bf52826c463e3b10bf09b378
+>>>>>>> 6cbd81246aeae4bf08ae512460fcaaa207ed8d79
   ]
 }
