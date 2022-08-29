@@ -1,25 +1,16 @@
 {
   "main": {
-    "id": "8534cb47aba8ed8c",
+    "id": "e2e85f45c9954464",
     "type": "split",
     "children": [
       {
-        "id": "4f091e71bc6325aa",
+        "id": "206210952889fb75",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
             "file": "User Experience/Level Design.md",
             "mode": "source",
-=======
-<<<<<<< HEAD
-            "file": "Vectors.md",
-=======
-            "file": "Programming/System Architectures.md",
->>>>>>> 3f98f2d2e135c997bf52826c463e3b10bf09b378
-            "mode": "preview",
->>>>>>> 6cbd81246aeae4bf08ae512460fcaaa207ed8d79
             "source": false
           }
         }
@@ -28,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ec463c633683c6cf",
+    "id": "7b03f0a8b1467247",
     "type": "split",
     "children": [
       {
-        "id": "d943e983d6a168de",
+        "id": "35e29aee0621de61",
         "type": "tabs",
         "children": [
           {
-            "id": "99d7cbd52fc6c8ce",
+            "id": "2b27e3482b10d427",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +35,7 @@
             }
           },
           {
-            "id": "c3763433325b29b7",
+            "id": "fb6b42bfc749f61d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +50,7 @@
             }
           },
           {
-            "id": "f58621ad2b788090",
+            "id": "badc854bd68c2470",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -73,24 +64,20 @@
     "width": 300
   },
   "right": {
-    "id": "3e88530ccdc08bd6",
+    "id": "41b30d0318dc8a2a",
     "type": "split",
     "children": [
       {
-        "id": "4dd9b104e4060bba",
+        "id": "c5cfc62d9696e2be",
         "type": "tabs",
         "children": [
           {
-            "id": "38e0eb806e91ab13",
+            "id": "bbd6e36eed422dc5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "User Experience/Level Design.md",
-=======
-                "file": "Vectors.md",
->>>>>>> 6cbd81246aeae4bf08ae512460fcaaa207ed8d79
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,23 +89,19 @@
             }
           },
           {
-            "id": "d7860ef2ca12c8e9",
+            "id": "697e02d7e2df04bf",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
                 "file": "User Experience/Level Design.md",
-=======
-                "file": "Vectors.md",
->>>>>>> 6cbd81246aeae4bf08ae512460fcaaa207ed8d79
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e04942647e56984c",
+            "id": "5030fb51871e490a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,16 +112,12 @@
             }
           },
           {
-            "id": "b848ad7b98093315",
+            "id": "4c6e644544ea5def",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
                 "file": "User Experience/Level Design.md"
-=======
-                "file": "Vectors.md"
->>>>>>> 6cbd81246aeae4bf08ae512460fcaaa207ed8d79
               }
             }
           }
@@ -149,42 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4f091e71bc6325aa",
+  "active": "206210952889fb75",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "README.md",
-    "User Experience/Design thinking.md",
-    "User Experience/Level Design.md",
-=======
-<<<<<<< HEAD
     "User Experience/Level Design (NEEDS ACTION).md",
-    "User Experience/Design thinking.md",
->>>>>>> 6cbd81246aeae4bf08ae512460fcaaa207ed8d79
-    "Programming/System Architectures.md",
-    "Programming/Python Cheat Sheet.md",
-    "Programming/Data Structures.md",
-<<<<<<< HEAD
-    "Programming/Boolean Logic.md",
-    "Programming/Coding Dictionary.md",
-    "Leadership/Projects.md",
-    "Programming/Godot Cheat Sheet.md"
-=======
-    "Programming/Coding Dictionary.md",
-    "Programming/Boolean Logic.md",
-    "Orientation/Agile.md",
-    "Leadership/Projects.md"
-=======
-    "Programming/Godot Cheat Sheet.md",
-    "Programming/Data Structures.md",
-    "Programming/Coding Dictionary.md",
-    "Orientation/Agile.md",
-    "README.md",
-    "Leadership/Projects.md",
-    "Programming/System Architectures.md",
-    "Images/IMG - MVC.png",
-    "Images/IMG - Estimation Process.png",
-    "Programming/Boolean Logic.md"
->>>>>>> 3f98f2d2e135c997bf52826c463e3b10bf09b378
->>>>>>> 6cbd81246aeae4bf08ae512460fcaaa207ed8d79
+    "User Experience/Level Design.md"
   ]
 }
