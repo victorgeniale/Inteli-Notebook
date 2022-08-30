@@ -1,19 +1,15 @@
 {
   "main": {
-    "id": "e2e85f45c9954464",
+    "id": "9039a89a4c950e3d",
     "type": "split",
     "children": [
       {
-        "id": "206210952889fb75",
+        "id": "8a42a0a82917d76e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "Programming/Coding Dictionary.md",
-=======
-            "file": "Programming/Software Quality.md",
->>>>>>> 206b68ff1a337a1b670388e4f45ef18f11d433ae
+            "file": "Programming/Code Improvement - DEBUG.md",
             "mode": "source",
             "source": false
           }
@@ -23,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7b03f0a8b1467247",
+    "id": "e26956aa085886be",
     "type": "split",
     "children": [
       {
-        "id": "35e29aee0621de61",
+        "id": "f8c988e39b2d6a2f",
         "type": "tabs",
         "children": [
           {
-            "id": "2b27e3482b10d427",
+            "id": "0db6c539544eb554",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +35,12 @@
             }
           },
           {
-            "id": "fb6b42bfc749f61d",
+            "id": "bdd240d1ce64fce0",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "obs",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +50,7 @@
             }
           },
           {
-            "id": "badc854bd68c2470",
+            "id": "4a45ff4536cff756",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -68,24 +64,20 @@
     "width": 300
   },
   "right": {
-    "id": "41b30d0318dc8a2a",
+    "id": "253fe21eb3b2f57f",
     "type": "split",
     "children": [
       {
-        "id": "c5cfc62d9696e2be",
+        "id": "b8fd1b4d5794d0de",
         "type": "tabs",
         "children": [
           {
-            "id": "bbd6e36eed422dc5",
+            "id": "5d9eefa6521e3625",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Programming/Coding Dictionary.md",
-=======
-                "file": "Programming/Software Quality.md",
->>>>>>> 206b68ff1a337a1b670388e4f45ef18f11d433ae
+                "file": "Programming/Code Improvement - DEBUG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,23 +89,19 @@
             }
           },
           {
-            "id": "697e02d7e2df04bf",
+            "id": "a66067281318d99c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Programming/Coding Dictionary.md",
-=======
-                "file": "Programming/Software Quality.md",
->>>>>>> 206b68ff1a337a1b670388e4f45ef18f11d433ae
+                "file": "Programming/Code Improvement - DEBUG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5030fb51871e490a",
+            "id": "e5ee6ad1d23b1324",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -124,16 +112,12 @@
             }
           },
           {
-            "id": "4c6e644544ea5def",
+            "id": "4bf93e7fff5c78c6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Programming/Coding Dictionary.md"
-=======
-                "file": "Programming/Software Quality.md"
->>>>>>> 206b68ff1a337a1b670388e4f45ef18f11d433ae
+                "file": "Programming/Code Improvement - DEBUG.md"
               }
             }
           }
@@ -144,22 +128,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "206210952889fb75",
+  "active": "8a42a0a82917d76e",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Programming/Code Improvement - DEBUG.md",
-    "Programming/Python Cheat Sheet.md",
-    "Programming/System Architectures.md",
-    "Programming/Data Structures.md",
-    "Programming/Coding Dictionary.md",
-    "Programming/Boolean Logic.md",
-    "User Experience/Level Design.md",
-    "User Experience/Users.md",
-    "Business/Gamer Profile.md",
-    "User Experience/Design thinking.md"
-=======
-    "User Experience/Level Design.md",
-    "User Experience/Level Design (NEEDS ACTION).md"
->>>>>>> 206b68ff1a337a1b670388e4f45ef18f11d433ae
+    "Programming/Software Quality.md"
   ]
 }
