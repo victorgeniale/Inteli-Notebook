@@ -10,7 +10,6 @@
 - Daily: Relatório sobre todas as tarefas diárias para avaliar a produtividade;
 - Artefato: Produto que é entregado no final de uma sprint para o cliente;
 - Backlog: Define o que deve ser feito,. o está sendo feito e o que já foi feito;
-
 ## Divisão de tarefas
 - Product owner: Define o que deve ser feito e a ordem de prioridades;
 - Time: Executar as tarefas para completar os sprints;
@@ -18,7 +17,6 @@
 
 # Estimação ágil
 > Estimativas que permitem a maior optimização do tempo (Decisões de um product owner);
-
 ## Como fazer estimatívas
 1. Conduzir entrevistas com o cliente (Stakeholder);
 2. Priorizar as exigências (User stories) de acordo com a ordem de importância;

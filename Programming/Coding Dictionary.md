@@ -1,5 +1,4 @@
 # Dictionary
-
 > **Algorítmo:** Procedimento sequencial que pega valores de entrada e produz valores de saída;
 
 > **Variável:** Espaço na memória para o armazenamento de dados;
@@ -17,5 +16,7 @@
 > **Design de software:** Implementa a arquitetura por meio da programação de algorítmos, estrutura de dados…;
 
 > **Refatoração:** Processo de melhorar a legibilidade e eficiência do código sem perder a usabilidade;
+
+> **Depuração (DEBUG):** Rodar o código com a ajuda de um depurador para que os erros cometidos sejam especificados e possam ser corrigidos;
 
 > **Modularização:** Processo de dividir uma aplicação em partes (módulos) que interagem entre si;

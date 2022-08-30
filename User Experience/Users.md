@@ -1,10 +1,8 @@
 # Personas
 > Representação dos usuários baseados em pesquisas que permite manter o foco no individual em detrimento de grupos;
-
 ## Tipos de persona
 - Primária: O alvo do projeto (Ex.: Clientes de uma rede de hotel);
 - Secundária: Pesssoas envolvidas para que o sistema funcione (Ex.: Funcionários do hotel);
-
 ## Criar personas
 - Pesquisas sobre o público-alvo;
 - Descrições de caracteristicas que definem essa personagem;

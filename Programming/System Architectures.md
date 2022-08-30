@@ -14,8 +14,8 @@ Estilos.: Centrado em dados, fluxo de dados, chamada e retorno, orientada a obje
   <img width=80% src="https://imgur.com/2jtU81p.png">
 </p>
 
-- MVC: Trabalha com os dados (**M**), exibe os dados para o cliente (**V**) e faz o controle de informações (**C**) (intermédio entre os dados e o usuário);
+- **MVC:** Trabalha com os dados (**M**), exibe os dados para o cliente (**V**) e faz o controle de informações (**C**) (intermédio entre os dados e o usuário);
 <p align="center">
   <img width=80% src="https://imgur.com/wgEjlN7.png">
 </p>
-- Layered: Responsabilidades de cada camada;
+- **Layered:** Responsabilidades de cada camada;

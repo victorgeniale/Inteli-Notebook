@@ -2,7 +2,6 @@
 - Adição de novas funcionalidades requerem uma nova refatoração;
 - Correção de bugs requerem uma nova refatoração;
 - Revisões de código requerem uma nova refatoração;
-
 ## Métodos de refatoração
 - Pull-up field/method: Quando há 2 subclasses com o mesmo atributo/método, esse atributo/método é movido para a super classe para evitar duplicados;
 <p align="center">
@@ -31,6 +30,7 @@ else:  # DEBUG
 ```
 .>>> Code is wrong.
 - A mensagem "code is wrong." demonstra que a tarefa **while** nunca é executada, algo identificado pelo print(). Se o **while** fosse executado, a mensagem "A>B" tornaria isso claro para o dev.
+
 # Os 3 aspectos para provar a qualidade do software
 1. Qualidade funcional: O software performa as tarefas necessárias, tem boa performance e são acessíveis para um usuário qualquer;
 2. Qualidade estrutural: O software está organizado em uma maneira que o torna fácil de ser testado, incrementado e entendido, ele também deve promover uma boa segurança;
