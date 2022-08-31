@@ -10,3 +10,9 @@
 </p>
 # Limite
 - Seja **f** uma função e **a** um ponto no domínio de **f**, dizemos que o limite **L** de **f** no ponto **a** é a imagem do ponto infinitamente próximo a **a**;
+
+Ex.: Na função abaixo, na medida em que x se aproxima de 0, a imagem se torna mais próxima de +∞ pela direita e -∞ pela esquerda
+<p align="center">
+  <img width=60% src="https://i.imgur.com/IgeFyLC.png">
+  <figcaption><p align="center">f(x)=1/x</figcaption>
+</p>

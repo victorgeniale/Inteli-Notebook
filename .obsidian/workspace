@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obs",
+                "query": "ex.:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,15 +130,15 @@
   },
   "active": "8a42a0a82917d76e",
   "lastOpenFiles": [
-    "Math/Vectors.md",
+    "User Experience/Users.md",
+    "User Experience/Design thinking.md",
+    "Programming/Coding Dictionary.md",
     "Math/Limits & Continuity.md",
+    "Math/Vectors.md",
     "Programming/Data Structures.md",
     "Programming/Code Improvement - DEBUG.md",
-    "Programming/Coding Dictionary.md",
     "README.md",
-    "User Experience/Users.md",
     "User Experience/Level Design.md",
-    "User Experience/Design thinking.md",
     "Programming/System Architectures.md"
   ]
 }
